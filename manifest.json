@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Evoluções AI",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "script.google",
+  "start_url": "https://script.google.com/macros/s/AKfycbwnwI1pTBAf0nnk0PB9cxaBgPz6v-4cs849NuEgn5B4Luj9HYzxGp7Qg4bsDRnZNuCDog/exec",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://script.google.com/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "32x32",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 32,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
