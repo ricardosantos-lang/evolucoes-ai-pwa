@@ -1,26 +1,29 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Evoluções AI",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "script.google",
+  "name": "Evoluções Ai",
+  "short_name": "EvoluçõesAi",
   "start_url": "https://script.google.com/macros/s/AKfycbwnwI1pTBAf0nnk0PB9cxaBgPz6v-4cs849NuEgn5B4Luj9HYzxGp7Qg4bsDRnZNuCDog/exec",
-  "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://script.google.com/favicon.ico",
-      "type": "image/x-icon",
-      "sizes": "32x32",
-      "isSquare": true,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 32,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "Aplicativo de AI para evoluções e insights.",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "screenshots": [
+    {
+      "src": "Captura_de_Tela_App.png",
+      "sizes": "640x480",
+      "type": "image/png"
     }
   ]
 }
